@@ -11,8 +11,16 @@
     "react",
     "jest"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yogeshreddyk/food-application.git"
+  },
   "author": "Yogesh Reddy",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yogeshreddyk/food-application/issues"
+  },
+  "homepage": "https://github.com/Yogeshreddyk/food-application#readme",
   "devDependencies": {
     "parcel": "^2.12.0",
     "postcss": "^8.5.1",
