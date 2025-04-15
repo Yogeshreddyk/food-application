@@ -1,0 +1,131 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* .header {
+  display:flex;
+  justify-content: space-between;
+  border: 1px solid black;
+}
+.logo {
+  width: 120px;
+  margin: 0px;
+}
+
+.nav-items{
+  padding: 4px 10px 2px 0px;
+}
+.nav-items > ul{
+    display:flex;
+    font-size: 23px;
+}
+
+.nav-items> ul > li{
+    padding:10px;
+    margin:10px;
+    list-style-type:none;
+}
+
+
+.res-card{
+  padding: 5px;
+  width: 200px;
+  height: 350px;
+  margin: 5px;
+}
+
+.res-container{
+  display: flex; 
+  margin: 5px;
+  flex-wrap: wrap;
+}
+.res-card:hover{
+  border: 1px solid black;
+}
+
+.search{
+  margin: 10px;
+}
+
+.res-logo{
+  width: 100%;
+  height:150px;
+}
+
+.filter-top{
+  margin: 10px;
+  cursor: pointer;
+}
+.shimmer-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.shimmer-card{
+  padding: 5px;
+  width: 200px;
+  height: 350px;
+  margin: 5px;
+  background-color:#f0f0f0;
+}
+
+.search{
+  display: flex;
+  
+}
+.text-search{
+  margin: 5px;
+}
+
+.button-search{
+  margin: 5px;
+}
+
+.menu-styles{
+  display: flex;
+}
+
+.user-card{
+  margin: 10px;
+  border: 2px dotted black;
+  display: flex;
+}
+
+.user-img{
+  height: 200px;
+  width: 200px;
+  padding: 10px;
+  border-radius: 50%;
+
+
+
+}
+
+.text{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+
+.status-indicator {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: red;
+  display: inline-block;
+}
+
+.offline {
+  background-color: red;
+}
+
+.offline {
+  background-color: green;
+} */
+
+
+
+
